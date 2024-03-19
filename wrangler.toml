@@ -1,0 +1,14 @@
+name = "cronjob-tests"
+main = "src/index.js"
+compatibility_date = "2024-03-19"
+workers_dev = false
+
+[vars]
+VAR1 = "lerolero"
+VAR2 = "lerolerolero"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1135511303713210368/UnSTLY3P77V23xT-KXwyCj4bGglLAbVDyLV3d0Z-LuTiGZ7dbmj2m7LbM-w-wkajaGeA"
+DISCORD_EMBED_FOOTER_LABEL = "Jogajunto GitHub Listener"
+DISCORD_EMBED_FOOTER_ICON_URL = "https://jogajunto.co/apple-touch-icon.png"
+
+[triggers]
+crons = ["* * * * *"]
