@@ -1,4 +1,4 @@
-# Sympla + RD Station
+# CloudFlare Workers + Discord send message
 
 This CloudFlare Workers project is designed to tests with wrangler and cronjobs.
 
