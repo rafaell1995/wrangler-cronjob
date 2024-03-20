@@ -1,4 +1,4 @@
-import deepClean from "./services/deepClean.js";
+import deepClean from "./utils/deepClean.js";
 
 // DiscordService.js
 export class DiscordService {
